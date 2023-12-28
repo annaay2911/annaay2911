@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annaay2911
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on  any company
+- 💞️ I’m looking for learning new things in web development
 - 📫 How to reach me: mail me on annaay2911@gmail.com
 
 <!---
